@@ -1,6 +1,6 @@
-# Statistics Projects
+# Analysis with Rstudio
 
-Purpose - display various data analytical project works with Rstudio
+Purpose - Find valuable insights from data with Rstudio
 
 Projects involved:
 1. Visualising data from the Behavioural Risk Factor Surveillance System (BRFSS) using ggplot2 & dplyr library
